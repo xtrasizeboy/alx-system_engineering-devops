@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R a-rwx directory
+chmod +x hello
